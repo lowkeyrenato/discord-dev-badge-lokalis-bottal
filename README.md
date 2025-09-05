@@ -1,2 +1,1 @@
-# discord-lokalis-bot-bagde-aktivalashoz
-Discord badge aktivalashoz ez egy bot
+# Discordhoz Dev badge megszerzéséhez ez egy lokális python bot
